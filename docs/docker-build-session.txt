@@ -1,0 +1,176 @@
+Script started on 2026-10-30 20:01:09+09:00 [TERM="xterm-256color" TTY="/dev/pts/11" COLUMNS="58" LINES="14"]
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ docker build - t codyssey-web:verit[Kfy
+[?2004lERROR: docker: 'docker buildx build' requires 1 argument
+
+Usage:  docker buildx build [OPTIONS] PATH | URL | -
+
+Run 'docker buildx build --help' for more information
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ [7mdocker build -[27m[7mt[27m[7m codyssey-web:verify .[27m[A]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ docker build -t codyssey-web:verify .
+[?2004l[1A[1B[0G[?25l
+[?25h[1A[0G[?25l[+] Building 0.0s (0/1)                    docker:default
+[?25h[1A[0G[?25l[+] Building 0.2s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  0.2s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 0.4s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  0.3s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 0.5s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  0.5s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 0.7s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  0.6s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 0.8s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  0.8s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 1.0s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  0.9s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 1.1s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  1.1s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 1.3s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  1.2s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 1.4s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  1.3s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 1.6s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  1.5s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 1.7s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  1.6s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 1.9s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  1.8s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 2.0s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  1.9s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 2.2s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  2.1s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 2.3s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  2.2s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 2.5s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  2.4s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 2.6s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  2.5s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 2.8s (1/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m => [internal] load metadata for docker.io/library/  2.7s
+[?25h[1A[1A[1A[1A[0G[?25l[+] Building 2.8s (2/2)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m[34m => [internal] load metadata for docker.io/library/  2.7s
+[0m[?25h[1A[1A[1A[1A[0G[?25l[+] Building 2.9s (4/6)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m[34m => [internal] load metadata for docker.io/library/  2.7s
+[0m[34m => [internal] load .dockerignore                    0.0s
+[0m[34m => => transferring context: 101B                    0.0s
+[0m[34m => [internal] load build context                    0.0s
+[0m[34m => => transferring context: 573B                    0.0s
+[0m => [1/2] FROM docker.io/library/nginx:alpine@sha25  0.0s
+ => => resolve docker.io/library/nginx:alpine@sha25  0.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.0s (6/7)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m[34m => [internal] load metadata for docker.io/library/  2.7s
+[0m[34m => [internal] load .dockerignore                    0.0s
+[0m[34m => => transferring context: 101B                    0.0s
+[0m[34m => [internal] load build context                    0.0s
+[0m[34m => => transferring context: 573B                    0.0s
+[0m[34m => CACHED [1/2] FROM docker.io/library/nginx:alpin  0.1s
+[0m[34m => => resolve docker.io/library/nginx:alpine@sha25  0.0s
+[0m[34m => [2/2] COPY site/ /usr/share/nginx/html/          0.1s
+[0m => exporting to image                               0.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.1s (6/7)                    docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m[34m => [internal] load metadata for docker.io/library/  2.7s
+[0m[34m => [internal] load .dockerignore                    0.0s
+[0m[34m => => transferring context: 101B                    0.0s
+[0m[34m => [internal] load build context                    0.0s
+[0m[34m => => transferring context: 573B                    0.0s
+[0m[34m => CACHED [1/2] FROM docker.io/library/nginx:alpin  0.1s
+[0m[34m => => resolve docker.io/library/nginx:alpine@sha25  0.0s
+[0m[34m => [2/2] COPY site/ /usr/share/nginx/html/          0.1s
+[0m => exporting to image                               0.1s
+[34m => => exporting layers                              0.1s
+[0m[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.2s (6/7)                    docker:default
+[34m => [internal] load build context                    0.0s
+[0m[34m => => transferring context: 573B                    0.0s
+[0m[34m => CACHED [1/2] FROM docker.io/library/nginx:alpin  0.1s
+[0m[34m => => resolve docker.io/library/nginx:alpine@sha25  0.0s
+[0m[34m => [2/2] COPY site/ /usr/share/nginx/html/          0.1s
+[0m => exporting to image                               0.2s
+[34m => => exporting layers                              0.1s
+[0m[34m => => exporting manifest sha256:2e2406f0fa729a1a9f  0.0s
+[0m[34m => => exporting config sha256:3b129548c29b61f65dee  0.0s
+[0m[34m => => exporting attestation manifest sha256:4d2ff3  0.0s
+[0m[34m => => exporting manifest list sha256:6f6dce2865ded  0.0s
+[0m => => naming to docker.io/library/codyssey-web:ver  0.0s
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Building 3.4s (7/7) FINISHED           docker:default
+[34m => [internal] load build definition from Dockerfil  0.0s
+[0m[34m => => transferring dockerfile: 435B                 0.0s
+[0m[34m => [internal] load metadata for docker.io/library/  2.7s
+[0m[34m => [internal] load .dockerignore                    0.0s
+[0m[34m => => transferring context: 101B                    0.0s
+[0m[34m => [internal] load build context                    0.0s
+[0m[34m => => transferring context: 573B                    0.0s
+[0m[34m => CACHED [1/2] FROM docker.io/library/nginx:alpin  0.1s
+[0m[34m => => resolve docker.io/library/nginx:alpine@sha25  0.0s
+[0m[34m => [2/2] COPY site/ /usr/share/nginx/html/          0.1s
+[0m[34m => exporting to image                               0.3s
+[0m[34m => => exporting layers                              0.1s
+[0m[34m => => exporting manifest sha256:2e2406f0fa729a1a9f  0.0s
+[0m[34m => => exporting config sha256:3b129548c29b61f65dee  0.0s
+[0m[34m => => exporting attestation manifest sha256:4d2ff3  0.0s
+[0m[34m => => exporting manifest list sha256:6f6dce2865ded  0.0s
+[0m[34m => => naming to docker.io/library/codyssey-web:ver  0.0s
+[0m[34m => => unpacking to docker.io/library/codyssey-web:  0.1s
+[0m[?25h[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ [7mdocker run -d [27m[7m-[27m[7m-rm --name codyssey-build-check -p 127.0.0.1:8082:80 cody[27m[7ms[27m[7msey-web:verify[27m[A[A]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ docker run -d --rm --name codyssey-build-check -p 127.0.0.1:8082:80 codyssey-web:verify
+[?2004ld7143c1630037b29f418e0f48e43c12a8c757119fb7dbc02713da4e4335ec9b7
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ [7mcurl -I http:/[27m[7m/[27m[7mlocalhost:8082 [27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccurl -I http://localhost:8082
+[A
+[?2004lHTTP/1.1 200 OK
+[1mServer[0m: nginx/1.31.8
+[1mDate[0m: Fri, 30 Oct 2026 11:02:33 GMT
+[1mContent-Type[0m: text/html
+[1mContent-Length[0m: 442
+[1mLast-Modified[0m: Fri, 30 Oct 2026 06:36:26 GMT
+[1mConnection[0m: keep-alive
+[1mETag[0m: "6ae43aea-1ba"
+[1mAccept-Ranges[0m: bytes
+
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ [7mdocker stop co[27m[7md[27m[7myssey-build-check [27m
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker stop codyssey-build-check
+[A
+[?2004lcodyssey-build-check
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ exit
+[?2004lexit
+
+Script done on 2026-10-30 20:02:41+09:00 [COMMAND_EXIT_CODE="0"]

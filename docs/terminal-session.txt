@@ -1,0 +1,66 @@
+Script started on 2026-10-30 19:29:39+09:00 [TERM="xterm-256color" TTY="/dev/pts/11" COLUMNS="58" LINES="14"]
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ pwd
+[?2004l/home/coris0907/codyssey-workstation
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ ls -la
+[?2004ltotal 48
+drwxr-xr-x 8 coris0907 coris0907 4096 Oct 30 18:56 [0m[01;34m.[0m
+drwxr-x--- 9 coris0907 coris0907 4096 Oct 30 17:36 [01;34m..[0m
+-rw-r--r-- 1 coris0907 coris0907   61 Oct 30 18:46 .dockerignore[K
+drwxr-xr-x 7 coris0907 coris0907 4096 Oct 30 18:58 [01;34m.git[0m
+-rw-r--r-- 1 coris0907 coris0907   17 Oct 30 17:24 .gitignore[K
+-rw-r--r-- 1 coris0907 coris0907  396 Oct 30 15:25 Dockerfile[K
+-rw-r--r-- 1 coris0907 coris0907   87 Oct 30 17:24 README.md[K
+drwxr-xr-x 3 coris0907 coris0907 4096 Oct 30 19:29 [01;34mdocs[0m
+drwxr-xr-x 2 coris0907 coris0907 4096 Oct 30 17:05 [01;34mlogs[0m
+drwxr-xr-x 3 coris0907 coris0907 4096 Oct 30 18:50 [01;34mpractice[0m[K
+drwxr-xr-x 2 coris0907 coris0907 4096 Oct 30 18:45 [01;34mscripts[0m
+drwxr-xr-x 2 coris0907 coris0907 4096 Oct 30 19:17 [01;34msite[0m
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ mkidr -p pract ice/cli-test
+[?2004lCommand 'mkidr' not found, did you mean:
+  command 'mkdir' from deb coreutils-from-gnu (0.0.0~ubuntu25)
+  command 'mkdir' from deb coreutils-from-uutils (0.0.0~ubuntu25)
+  command 'mkdir' from deb coreutils-from-busybox (0.0.0~ubuntu25)
+  command 'mkdir' from deb coreutils-from-toybox (0.0.0~ubuntu25)
+  command 'mkid' from deb id-utils (4.6.28-20250503ss15dabuild1)
+Try: sudo apt install <deb name>
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ mkdir -p pract ice/cli-test
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ cd practice/cl i-test
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ pwd
+[?2004l/home/coris0907/codyssey-workstation/practice/cli-test
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ touch empty.txt
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ touch empty.txt .hidden-nod[Kte
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ exit
+[?2004lexit
+
+Script done on 2026-10-30 19:30:48+09:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2026-10-30 19:32:37+09:00 [TERM="xterm-256color" TTY="/dev/pts/11" COLUMNS="58" LINES="14"]
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ cd practice.[K/cl i-test
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ [7mprintf 'Codyssey CLI practice\n' > note.txt[27m[C[C[C[Cprintf 'Codyssey CLI practice\n' > note.txt
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ [7mcat note.txt[27m[C[C[C[Ccat note.txt
+[?2004lCodyssey CLI practice
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ [7mcp note.txt copy.txt[27m
+[A[C[C[C[Ccp note.txt copy.txt
+[A
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ [7mmv copy.txt renamed.txt[27m
+[A[C[C[C[Cmv copy.txt renamed.txt
+[A
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ ls -la
+[?2004ltotal 16
+drwxr-xr-x 2 coris0907 coris0907 4096 Oct 30 19:34 [0m[01;34m.[0m
+drwxr-xr-x 4 coris0907 coris0907 4096 Oct 30 19:30 [01;34m..[0m
+-rw-r--r-- 1 coris0907 coris0907    0 Oct 30 19:30 .hidden-note[K
+-rw-r--r-- 1 coris0907 coris0907    0 Oct 30 19:30 empty.txt[K
+-rw-r--r-- 1 coris0907 coris0907   22 Oct 30 19:33 note.txt[K
+-rw-r--r-- 1 coris0907 coris0907   22 Oct 30 19:34 renamed.txt[K
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ rm renamed.txt
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ mkdir temp-directionry[K[K[Kry
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ rmdir tm[Kemp[Kp-directiory
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation/practice/cli-test[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation/practice/cli-test[00m$ cd ../..
+[?2004l[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ realpath pre[Kact ice/cli-test/note.txt
+[?2004l/home/coris0907/codyssey-workstation/practice/cli-test/note.txt
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ ls -l practice /cli-test/note.txt
+[?2004l-rw-r--r-- 1 coris0907 coris0907 22 Oct 30 19:33 practice/cli-test/note.txt[K
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ exit
+[?2004lexit
+
+Script done on 2026-10-30 19:35:12+09:00 [COMMAND_EXIT_CODE="0"]

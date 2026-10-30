@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+logs/
+docs/
+scripts/
+practice/
+README.md

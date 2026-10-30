@@ -1,0 +1,138 @@
+Script started on 2026-10-30 20:20:56+09:00 [TERM="xterm-256color" TTY="/dev/pts/11" COLUMNS="58" LINES="14"]
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ git --version
+[?2004lgit version 2.53.0
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ git config --l ist
+[?2004l[?1h=user.name=이민재[m
+user.email=coris0907@gmail.com[m
+init.defaultbranch=main[m
+credential.helper=/mnt/c/Program\ Files/Git/mingw64/bin/gi[m t-credential-manager.exe[m
+core.repositoryformatversion=0[m
+core.filemode=true[m
+core.bare=false[m
+core.logallrefupdates=true[m
+remote.origin.url=https://dlsmfcks@github.com/dlsmfcks/Cod[m yssey.git[m
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*[m
+credential.usehttppath=true[m
+:[K[Kbranch.main.remote=origin[m
+branch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[14;1H[K:[K[Kbranch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K...skipping...
+init.defaultbranch=main[m
+credential.helper=/mnt/c/Program\ Files/Git/mingw64/bin/gi[m t-credential-manager.exe[m
+core.repositoryformatversion=0[m
+core.filemode=true[m
+core.bare=false[m
+core.logallrefupdates=true[m
+remote.origin.url=https://dlsmfcks@github.com/dlsmfcks/Cod[m yssey.git[m
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*[m
+credential.usehttppath=true[m
+branch.main.remote=origin[m
+branch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[K:[K[Kbranch.main.remote=origin[m
+:[K[Kbranch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[K[K:[K[K[K:[K[K[K:[K[Kbranch.main.remote=origin[m
+branch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[Kbranch.main.remote=origin[m
+:[K[Kbranch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[Kbranch.main.remote=origin[m
+branch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[Kbranch.main.remote=origin[m
+:[K[K[HMuser.name=이민재[m
+[14;1H[K:[K[Kbranch.main.remote=origin[m
+:[K[Kbranch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[Kbranch.main.remote=origin[m
+branch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[Kbranch.main.remote=origin[m
+:[K[Kbranch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[Kbranch.main.remote=origin[m
+:[K[K[HMuser.name=이민재[m
+[14;1H[K:[K[K[K:[K[K[K:[K[K[K:[K[K[K:[K[Kbranch.main.remote=origin[m
+:[K[Kbranch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[K:[K[K:[K[K[K:[K[K:[K[K[K:[K[K:[K[K[K:[K[K:[K[Kbranch.main.remote=origin[m
+branch.main.merge=refs/heads/main[m
+[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K-[Klog file: [K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K-[Klog file: [Kee[Kff[Kee[Kff[Kee[K[K[K[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [K::[K^?^?[K[7m(END)[27m[K[K[HMuser.email=coris0907@gmail.com[m
+[HMuser.name=이민재[m
+[14;1H[K:[K[K[?1l>[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ dic[K[Kocker pull ub untu:24.4[K04
+[?2004l24.04: Pulling from library/ubuntu
+Digest: sha256:fe81560990fae86dc4743202b2cb4d3df98d0bcf949173cecef15ce1127ef852
+Status: Image is up to date for ubuntu:24.04
+docker.io/library/ubuntu:24.04
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ [7mdocker images[27mdocker images
+[?2004l                                      [1m[106m[30mi[0m[0m [96mInfo → [0m[0m [38;5;0m[48;5;14m U [0m In Use
+[39m[1mIMAGE[0m             [39m[1mID[0m             [39m[1mDISK USAGE[0m   [39m[1mCONTENT SIZE[0m
+[34m[1mcodyssey-web:1.0[0m
+                  [39m9850e5c6e4e7[0m       [39m93.6MB[0m         [39m26.3MB[0m
+[34m[1mcodyssey-web:verify[0m
+                  [39m6f6dce2865de[0m       [39m93.6MB[0m         [39m26.3MB[0m
+[34m[1mhello-world:latest[0m
+                  [39mc567b231f656[0m       [39m25.9kB[0m         [39m9.49kB[0m
+[34m[1mubuntu:24.04[0m      [39mfe81560990fa[0m        [39m119MB[0m         [39m31.7MB[0m
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ [7mdocker run --r[27m[7mm[27m[7m hello-world[27m[A]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ docker run --rm hello-world
+[?2004l
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ [7mdocker ps -a[27m
+[7mdocker logs --tail 10 codyssey-web-8080[27m
+[7mdocker stats --no-stream codyssey-web-8080[27m[A[A]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ docker ps -a
+docker logs --tail 10 codyssey-web-8080
+docker stats --no-stream codyssey-web-8080
+[?2004lCONTAINER ID   IMAGE              COMMAND                  CREATED        STATUS                      PORTS                    NAMES
+cd12b87fa1e6   ubuntu:24.04       "sleep infinity"         3 hours ago    Exited (137) 3 hours ago                             volume-second
+328e915be12d   codyssey-web:1.0   "/docker-entrypoint.…"   5 hours ago    Up 5 hours                  127.0.0.1:8081->80/tcp   codyssey-web-bind
+2554b372ca7f   codyssey-web:1.0   "/docker-entrypoint.…"   5 hours ago    Up 5 hours                  127.0.0.1:8080->80/tcp   codyssey-web-8080
+9a659cad4dfe   ubuntu:24.04       "bash"                   20 hours ago   Exited (137) 20 hours ago                            ubuntu-practice
+9f0a3cfe3dd7   hello-world        "/hello"                 20 hours ago   Exited (0) 20 hours ago                              unruffled_feynman
+2026/10/30 06:29:13 [error] 32#32: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+172.17.0.1 - - [30/Oct/2026:06:29:13 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" "-"
+172.17.0.1 - - [30/Oct/2026:06:32:46 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" "-"
+172.17.0.1 - - [30/Oct/2026:07:40:41 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" "-"
+172.17.0.1 - - [30/Oct/2026:07:52:45 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" "-"
+172.17.0.1 - - [30/Oct/2026:10:04:02 +0000] "HEAD / HTTP/1.1" 200 0 "-" "curl/8.18.0" "-"
+172.17.0.1 - - [30/Oct/2026:10:22:38 +0000] "GET / HTTP/1.1" 200 442 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" "-"
+2026/10/30 10:22:38 [error] 32#32: *10 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+172.17.0.1 - - [30/Oct/2026:10:22:38 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" "-"
+172.17.0.1 - - [30/Oct/2026:10:23:27 +0000] "GET / HTTP/1.1" 200 442 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" "-"
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2554b372ca7f   codyssey-web-8080   0.00%     7.633MiB / 15.36GiB   0.05%     19.6kB / 14.1kB   963kB / 53.2kB   9
+[?2004h]0;coris0907@localhost: ~/codyssey-workstation[01;32mcoris0907@localhost[00m:[01;34m~/codyssey-workstation[00m$ exit
+[?2004lexit
+
+Script done on 2026-10-30 20:23:21+09:00 [COMMAND_EXIT_CODE="0"]
